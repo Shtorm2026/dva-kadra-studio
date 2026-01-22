@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://dva-kadra-studio.manus.space/</loc>
+    <lastmod>2025-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://dva-kadra-studio.manus.space/images/hero-kids-filming.jpg</image:loc>
+      <image:title>Два-Кадра - Детская студия видеотворчества</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dva-kadra-studio.manus.space/images/gallery-filming-outdoor.jpg</image:loc>
+      <image:title>Съемка на открытом воздухе</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dva-kadra-studio.manus.space/images/gallery-studio-setup.jpg</image:loc>
+      <image:title>Профессиональная студия</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dva-kadra-studio.manus.space/images/gallery-editing-room.jpg</image:loc>
+      <image:title>Видеомонтаж и цветокоррекция</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dva-kadra-studio.manus.space/images/gallery-festival-awards.jpg</image:loc>
+      <image:title>Победы на фестивалях</image:title>
+    </image:image>
+  </url>
+</urlset>
